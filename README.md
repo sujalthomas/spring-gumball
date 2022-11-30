@@ -1,2 +1,1 @@
-# spring-gumball
-Project
+# CMPE 172 Course Repository 
